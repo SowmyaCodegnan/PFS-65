@@ -1,0 +1,26 @@
+Features of Python
+------------------
+
+1. Easy to Learn and Read – Python has a simple and easy-to-understand syntax, making it beginner-friendly.
+
+2. Interpreted Language – Python executes code line by line without requiring compilation.
+
+3. High-Level Language – It hides complex system-level details, allowing programmers to focus on solving problems.
+
+4. Object-Oriented – Python supports object-oriented programming concepts such as classes, objects, inheritance, and polymorphism.
+
+5. Cross-Platform – Python programs can run on Windows, Linux, macOS, and other operating systems with little or no modification.
+
+6. Free and Open Source – Python is freely available, and its source code can be modified and distributed.
+
+7. Large Standard Library – Python provides a wide range of built-in modules for file handling, networking, mathematics, web development, and more.
+
+8. Dynamically Typed – Variables do not require explicit data type declarations; Python determines the type automatically.
+
+9. Extensible and Embeddable – Python can be integrated with languages like C and C++ and embedded into other applications.
+
+10. Supports Multiple Programming Paradigms – Python supports procedural, object-oriented, and functional programming.
+
+11. Automatic Memory Management – Python automatically manages memory through garbage collection.
+
+12. Large Community Support – Python has a large global community that provides libraries, frameworks, documentation, and support.
